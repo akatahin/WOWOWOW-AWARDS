@@ -1,0 +1,48 @@
+body { 
+    background: #66CDAA url("https://ph-files.imgix.net/7039e565-06d1-486c-9c3b-18ec25c31520?auto=format&auto=compress&codec=mozjpeg&cs=strip") no-repeat fixed center;
+    text-align: center;
+}
+.head {
+    color: #2F4F4F;
+    font-family: 'Faster One', cursive;
+    font-size: 50px;
+    background-color: #F08080;
+    border-radius: 100px;
+}
+.one {
+    color: #4B0082;
+    padding: 10px;
+    background-color: #F08080;
+    border-radius: 100px;
+}
+.two {
+    color: #191970;
+    padding: 10px;
+    background-color: #F08080;
+    border-radius: 100px;
+}
+.three {
+    color: #808080;
+    padding: 10px;
+    background-color: #F08080;
+    border-radius: 100px;
+}
+.four {
+    color: #8B008B;
+    padding: 10px;
+    background-color: #F08080;
+    border-radius: 100px;
+}
+img {
+    width: 300px;
+    border: double 15px #FF4500;
+    border-radius: 10px;
+}
+p {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Baloo Bhaijaan', cursive;
+}
+h1 {
+    font-family: 'Carter One', cursive;
+}
